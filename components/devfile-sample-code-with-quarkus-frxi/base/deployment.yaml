@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: torstai-wind-turbine
   name: devfile-sample-code-with-quarkus-frxi
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
